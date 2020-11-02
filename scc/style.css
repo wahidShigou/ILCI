@@ -1,0 +1,4 @@
+header, main, section, footer{
+     border: 1px solid red;
+     margin: 25px 5px;
+}
